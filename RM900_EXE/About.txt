@@ -1,0 +1,22 @@
+WinAmp KeyLog Version 1.0
+
+This program was designed to work with the Live!Drive Ir Remotes (RM-900) that comes with the Creatve Sound Blaster Live! Platinum 5.1 series sound cards.  What this means is that when you press a button on your remote, it'll preform that function within WinAmp.  Heres how it works.
+Play, Pause, Stop, ect. are all self-explanitory.
+
+0-9: Plays track from favourite listing.
+CTRL+SHIFT+NUM on KeyBoard: Sets current song as a favourite.
+
+Slow: Starts playing current track from begining.
+Step: Plays a random track.
+
+Return: Selects 1st song in playlist.
+EAX: Starts/Stops visualization plug-in.
+Display: Opens skin browser.
+Close: Closes WinAmp.
+Options: Brings up misc. options for WinAmp.
+
+Up: Moves playlist up 10 songs.
+Down: Moves playlist down 10 songs.
+Left: Rewinds song by 5 sec.
+Right: Fast forwards song by 5 sec.
+Select/OK: Loads WinAmp.

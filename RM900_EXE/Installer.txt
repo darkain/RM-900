@@ -1,0 +1,69 @@
+Winamp RM-900 Plug-In v1.0
+
+1) Introduction
+This Plug-In was designed to work with the RM-900 Ir remote
+that comes with the Creatice Sound Blaster Live! Platinum
+5.1's Live!Drive Ir.  Before running this program, please
+verify that 'ThunderRT5Form.KEY' was placed in the correct
+folder.  By default it is placed in the
+'C:\Program Files\Creative\RemoteCenter\Rc\KeyMap\' folder.
+If this isn't the folder for your RemoteCenter key map files,
+then please place it in the correct folder.  Next, run Winamp.
+Once Winamp is loaded, press 'Start' a few times on the remote
+until the 'Select Aplication to Control' window pops up.
+Scroll downand and select 'Winamp RM900 Plug-In.'  From there
+your good to go.  You now have full control over Winamp via
+the remote control.  ENJOY !!
+
+
+
+2) Key Maps
+Here is a list of all the buttons on the remote, and what they
+where re-mapped to:
+
+Play/Pause:          Play/Pause
+Stop:                Stop
+Previous:            Previous Track
+Next:                Next Track
+Slow:                Starts playback over from begining of song
+Step:                Plays a random track
+Mute:                Mutes audio
+Vol Up:              Increases volume
+Vol Down:            Decreases volume
+Speaker:             Nothing (yet)
+EAX:                 Starts/Stops visualization plug-in
+Return:              Plays the first song on the playlist
+Display:             Opens the 'Skin' browser
+Close:               Closes Winamp
+Up:                  Moves up 10 songs in playlist
+Down:                Moves down 10 songs in playlist
+Left:                Rewinds song by 5 seconds
+Right:               Fast forwards song by 5 seconds
+
+Options:             Opens the 'Options On-Screen Menu'
+ Opt1-Repeat All:    Toggles repeat all
+ Opt2-Shuffle:       Toggles shuffle
+ Opt3-Double Size:   Toggles double size
+ Opt4-Equalizer:     Toggles equalizer
+ Opt5-Playlist:      Toggles playlist
+ Opt6-Minibrowser:   Toggles minibrowser
+ Opt7-Reload skin:   Reloads the current skin
+ Opt8-Restart WA:    Restarts Winamp
+ Opt9-WA About:      Displays the Winamp about box
+ Opt0-RM About:      Displays the RM900 Plug-In about box
+
+Select/OK:           Toggles favourites lists
+0 though 9:          Plays favourite track N
+
+To save a favourite, play the song you want, and then press
+CTRL+ALT+(Number) to set it as the number selected in the
+current favourites list.  Currently, this Plug-In supports
+having only two lists.  But then again, 20 favourites tracks
+should be enough for now.
+
+
+
+3) Contact Info.
+Author:              Darkain Dragoon
+E-Mail:              pkfk@hotmail.com
+Web Site:            pending
